@@ -1,0 +1,94 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    x:Class="Choose_Your_Path.MainPage"
+    mc:Ignorable="d"
+    d:DataContext="{d:DesignData SampleData/MainViewModelSampleData.xaml}"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+    <Grid x:Name="LayoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="119*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <phone:Pivot x:Name="Pivot" Title="Choose Your Path" Grid.ColumnSpan="2">
+            <phone:PivotItem Header="Map" Margin="14,10,10,18">
+                <Grid HorizontalAlignment="Left" Height="531" VerticalAlignment="Top" Width="456">
+                    <maps:Map x:Name="MyMap" Hold="MapTap"/>
+                    <Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" BorderBrush="Transparent" Foreground="White" Click="ZoomIn">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/light.add.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button VerticalAlignment="Top" Height="75" Margin="0,75,0,0" BorderBrush="Transparent" Foreground="White" Click="ZoomOut" HorizontalAlignment="Left" Width="75">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/light.minus.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button HorizontalAlignment="Right" VerticalAlignment="Top" Height="75" Width="75" Margin="0,451,10,0" BorderBrush="Transparent" Click="TurnRight">
+                        <Button.Background>
+                            <ImageBrush ImageSource="/Images/light.chevron.right.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button HorizontalAlignment="Right" VerticalAlignment="Top" Height="75" Width="75" Margin="0,451,90,0" BorderBrush="Transparent" Click="TurnLeft">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/light.chevron.left.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="75" Width="75" BorderBrush="#07FFFFFF" Click="PitchUp" Margin="371,0,0,0" FontSize="14">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/light.chevron.up.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button VerticalAlignment="Top" Height="75" Margin="371,75,0,0" BorderBrush="Transparent" Foreground="White" Click="PitchDown" HorizontalAlignment="Left" Width="75" FontSize="14">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/light.chevron.down.png"/>
+                        </Button.Background>
+                    </Button>
+                    <TextBox x:Name="Search" HorizontalAlignment="Left" Height="72" Margin="0,451,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="291" Foreground="Black" SelectionBackground="#00E51400" SelectionForeground="#7FFFFFFF" Visibility="Visible" KeyDown="Find"/>
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="Points">
+                <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Width="456">
+                    <ScrollViewer ScrollViewer.HorizontalScrollBarVisibility="Auto" Height="Auto" VerticalScrollBarVisibility="Auto">
+                        <ListBox x:Name="PointList" SelectionMode="Single" Width="436" Height="Auto" FontSize="20" DoubleTap="ChangeViewPoint">
+                        </ListBox>
+                    </ScrollViewer>
+                    <Button x:Name="UpButton" HorizontalAlignment="Left" Margin="376,-30,0,0" VerticalAlignment="Top" Width="80" Height="80" Click="UpPoint" BorderBrush="{x:Null}">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/dark.arrow.up.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:Name="DownButton" HorizontalAlignment="Left" Margin="376,50,0,0" VerticalAlignment="Top" Width="80" Height="80" Click="DownPoint" BorderBrush="{x:Null}">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/dark.arrow.down.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:Name="DeleteButton" HorizontalAlignment="Left" Margin="376,130,0,0" VerticalAlignment="Top" Width="80" Height="80" Click="DeletePoint" BorderBrush="{x:Null}">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/dark.delete.png"/>
+                        </Button.Background>
+                    </Button>
+                    <Button x:Name="ClearButton" HorizontalAlignment="Left" Margin="376,215,0,-34" VerticalAlignment="Top" Width="80" Height="80" Click="ClearPoints" BorderBrush="{x:Null}">
+                        <Button.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Images/dark.clean.png"/>
+                        </Button.Background>
+                    </Button>
+                </Grid>
+            </phone:PivotItem>
+            <phone:PivotItem Header="Route">
+                <ScrollViewer HorizontalAlignment="Left" Height="Auto" VerticalAlignment="Top" Width="456">
+                    <TextBlock x:Name="Route" TextWrapping="Wrap" Height="Auto"/>
+                </ScrollViewer>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+</phone:PhoneApplicationPage>

@@ -1,0 +1,525 @@
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Assets\ApplicationIcon.png
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.pdb
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\AppManifest.xaml
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Properties\WMAppManifest.xml
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Choose_Your_Path_Debug_AnyCPU.xap
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\App.g.cs
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\MainPage.g.cs
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.g.resources
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Choose_Your_Path.Resources.AppResources.resources
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csproj.GenerateResource.Cache
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.pdb
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\XapCacheFile.xml
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Settings.g.cs
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\SplashScreenControl.g.cs
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csprojResolveAssemblyReference.cache
+d:\dokumenty\visual studio 2012\Projects\Choose Your Path\Choose Your Path\obj\Debug\Instruction.g.cs
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\ApplicationIcon.png
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.pdb
+E:\Choose Your Path\Choose Your Path\Bin\Debug\AppManifest.xaml
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Properties\WMAppManifest.xml
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Choose_Your_Path_Debug_AnyCPU.xap
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csprojResolveAssemblyReference.cache
+E:\Choose Your Path\Choose Your Path\obj\Debug\App.g.cs
+E:\Choose Your Path\Choose Your Path\obj\Debug\Instruction.g.cs
+E:\Choose Your Path\Choose Your Path\obj\Debug\MainPage.g.cs
+E:\Choose Your Path\Choose Your Path\obj\Debug\Settings.g.cs
+E:\Choose Your Path\Choose Your Path\obj\Debug\SplashScreenControl.g.cs
+E:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.g.resources
+E:\Choose Your Path\Choose Your Path\obj\Debug\Choose_Your_Path.Resources.AppResources.resources
+E:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csproj.GenerateResource.Cache
+E:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.dll
+E:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.pdb
+E:\Choose Your Path\Choose Your Path\obj\Debug\XapCacheFile.xml
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\ApplicationIcon.png
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.pdb
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\AppManifest.xaml
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Properties\WMAppManifest.xml
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose_Your_Path_Debug_AnyCPU.xap
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csprojResolveAssemblyReference.cache
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\App.g.cs
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Instruction.g.cs
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\MainPage.g.cs
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Settings.g.cs
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\SplashScreenControl.g.cs
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.g.resources
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose_Your_Path.Resources.AppResources.resources
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csproj.GenerateResource.Cache
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.dll
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.pdb
+E:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\XapCacheFile.xml
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\ApplicationIcon.png
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.pdb
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\AppManifest.xaml
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Properties\WMAppManifest.xml
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose_Your_Path_Debug_AnyCPU.xap
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csprojResolveAssemblyReference.cache
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\App.g.cs
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Instruction.g.cs
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\MainPage.g.cs
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Settings.g.cs
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\SplashScreenControl.g.cs
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.g.resources
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose_Your_Path.Resources.AppResources.resources
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csproj.GenerateResource.Cache
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.dll
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.pdb
+G:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\XapCacheFile.xml
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\ApplicationIcon.png
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.pdb
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\AppManifest.xaml
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Choose_Your_Path_Debug_AnyCPU.xap
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\App.g.cs
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Instruction.g.cs
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\MainPage.g.cs
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Settings.g.cs
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\SplashScreenControl.g.cs
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.g.resources
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose_Your_Path.Resources.AppResources.resources
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csproj.GenerateResource.Cache
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.dll
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.pdb
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\XapCacheFile.xml
+D:\Inżynier\Choose Your Path\Choose Your Path\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.pdb
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\AppManifest.xaml
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Choose_Your_Path_Debug_AnyCPU.xap
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\App.g.cs
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Instruction.g.cs
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\MainPage.g.cs
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Settings.g.cs
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\SplashScreenControl.g.cs
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.g.resources
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Choose_Your_Path.Resources.AppResources.resources
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csproj.GenerateResource.Cache
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.dll
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.pdb
+C:\Users\Hubert\Documents\Visual Studio 2013\Choose Your Path\Choose Your Path\obj\Debug\XapCacheFile.xml
+D:\Inżynier\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csprojResolveAssemblyReference.cache
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\ApplicationIcon.png
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Choose Your Path.pdb
+D:\Choose Your Path\Choose Your Path\Bin\Debug\AppManifest.xaml
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Properties\WMAppManifest.xml
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Choose_Your_Path_Debug_AnyCPU.xap
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Choose Your Path\Choose Your Path\obj\Debug\App.g.cs
+D:\Choose Your Path\Choose Your Path\obj\Debug\Instruction.g.cs
+D:\Choose Your Path\Choose Your Path\obj\Debug\MainPage.g.cs
+D:\Choose Your Path\Choose Your Path\obj\Debug\Settings.g.cs
+D:\Choose Your Path\Choose Your Path\obj\Debug\SplashScreenControl.g.cs
+D:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.g.resources
+D:\Choose Your Path\Choose Your Path\obj\Debug\Choose_Your_Path.Resources.AppResources.resources
+D:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csproj.GenerateResource.Cache
+D:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.dll
+D:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.pdb
+D:\Choose Your Path\Choose Your Path\obj\Debug\XapCacheFile.xml
+D:\Choose Your Path\Choose Your Path\obj\Debug\Choose Your Path.csprojResolveAssemblyReference.cache
